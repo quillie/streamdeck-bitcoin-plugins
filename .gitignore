@@ -3,4 +3,5 @@ release/.DS_Store
 src/.DS_Store
 tools/.DS_Store
 
-src/debug.sh
+src/
+tools/
