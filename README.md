@@ -19,7 +19,7 @@ This project contains a collection of useful plugins for Elgato Stream Decks tha
 - [Transaction Backlog Plugin](https://github.com/quilloughbee/streamdeck-bitcoin-plugins/raw/main/release/com.quillie.backlog.streamDeckPlugin)
 - [Transaction Fee Recommender Plugin](https://github.com/quilloughbee/streamdeck-bitcoin-plugins/raw/main/release/com.quillie.fees.streamDeckPlugin)
 
-Download the packaged plugins from the release folder **or** click one of the links above. Having downloaded the plugins, install via double-click. Elgato's software will guide you through the process.
+Download the packaged plugins from the release folder **or** click one of the links above. Having downloaded the plugins, run installation via double-click. Elgato's software will guide you through the process.
 
 ![](./images/screenshot.png)
 
@@ -40,7 +40,7 @@ What the hell is Moscow Time?
 > Moscow Time is a Bitcoin meme inadvertently spawned by cybersecurity researcher Chris Vickery in March...
 Moscow Time counts down as Bitcoin’s price increases. - [Protos](https://protos.com/bitcoin-clock-moscow-time-jack-dorsey-blockclock-memes/)
 
-Moscow Time has become a common thing to mention in podcasts and live stream. It goes without saying that in view of a likely Hyperbitcoinization, we definitely saw the need for a plugin.
+Moscow Time has become a common thing to mention in podcasts and live streams. It goes without saying that in view of a likely Hyperbitcoinization, we definitely saw the need for a plugin.
 
 ![](./images/moscow.png)
 
