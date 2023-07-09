@@ -81,7 +81,7 @@ Got an idea for further plugins? Discovered a bug? Feel free to open an issue ri
 
 ## Value 4 Value
 
-In case you enjoy using these Bitcoin plugins, we'd be happy to see a few sats at the [>>TIP JAR<<](https://legend.lnbits.com/tipjar/736).
+In case you enjoy using these Bitcoin plugins, we'd be happy to see a few sats at the [>>TIP JAR<<](https://legend.lnbits.com/tipjar/736) or via [quillie@600.wtf](). 
 
 A gentle way of supporting the Einundzwanzig podcast is by submitting a [shoutout](https://tallycoin.app/@_einundzwanzig_/einundzwanzig-shoutout-zfxqtu/).
 
