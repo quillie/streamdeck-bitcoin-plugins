@@ -30,8 +30,6 @@ Made by toxic Bitcoin Maximalists 🧡
 
 ## The Nukening Clock
 
-While block time can be defined in various ways, most Bitcoin plebs have the current height of the Bitcoin blockchain in mind (see [block time](https://www.blocktime.live/)). 
-
 The Nukening plugin displays the number of Bitcoin bocks since the [Damus nukening](https://njump.me/nevent1qqsz2jet77rmatz6hp8vflr80uhqn02gzk4x0a50a34np8m8kcqfhnqpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqs6amnwvaz7tmwdaejumr0dsq3jamnwvaz7tmsv93xcmmxxaazumn0wd68yvfwvdhk6qg4waehxw309aex2mrp0yhxummnw3ezumn9wsu7pehr). 
 
 ![](./images/nuke.jpg)
