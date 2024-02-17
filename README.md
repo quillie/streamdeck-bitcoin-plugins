@@ -13,8 +13,10 @@ Learn more about Streamdecks on [maketecheasier](https://www.maketecheasier.com/
 
 This project contains a collection of useful plugins for Elgato Stream Decks that leverage Mempool's API. Available plugins:
 
+
 - [Block Time Plugin](https://github.com/quilloughbee/streamdeck-bitcoin-plugins/raw/main/release/com.quillie.blocktime.streamDeckPlugin) 
 - [Moscow Time Plugin](https://github.com/quilloughbee/streamdeck-bitcoin-plugins/raw/main/release/com.quillie.moscowtime.streamDeckPlugin)
+- [The Nukening Plugin](https://github.com/quilloughbee/streamdeck-bitcoin-plugins/raw/main/release/com.quillie.nukening.streamDeckPlugin) 
 - [Einundzwanzig Plugin](https://github.com/quilloughbee/streamdeck-bitcoin-plugins/raw/main/release/com.quillie.einundzwanzig.streamDeckPlugin)
 - [Transaction Backlog Plugin](https://github.com/quilloughbee/streamdeck-bitcoin-plugins/raw/main/release/com.quillie.backlog.streamDeckPlugin)
 - [Transaction Fee Recommender Plugin](https://github.com/quilloughbee/streamdeck-bitcoin-plugins/raw/main/release/com.quillie.fees.streamDeckPlugin)
@@ -24,6 +26,17 @@ Download the packaged plugins from the release folder **or** click one of the li
 ![](./images/screenshot.png)
 
 Made by toxic Bitcoin Maximalists 🧡
+
+
+## The Nukening Clock
+
+While block time can be defined in various ways, most Bitcoin plebs have the current height of the Bitcoin blockchain in mind (see [block time](https://www.blocktime.live/)). 
+
+The Nukening plugin displays the number of Bitcoin bocks since the [Damus nukening](https://njump.me/nevent1qqsz2jet77rmatz6hp8vflr80uhqn02gzk4x0a50a34np8m8kcqfhnqpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqs6amnwvaz7tmwdaejumr0dsq3jamnwvaz7tmsv93xcmmxxaazumn0wd68yvfwvdhk6qg4waehxw309aex2mrp0yhxummnw3ezumn9wsu7pehr). 
+
+![](./images/nuke.jpg)
+
+
 
 ## Block Time 
 
@@ -81,10 +94,8 @@ Got an idea for further plugins? Discovered a bug? Feel free to open an issue ri
 
 ## Value 4 Value
 
-In case you enjoy using these Bitcoin plugins, we'd be happy to see a few sats at the [>>TIP JAR<<](https://legend.lnbits.com/tipjar/736) or via [quillie@600.wtf](). 
-
-A gentle way of supporting the Einundzwanzig podcast is by submitting a [shoutout](https://tallycoin.app/@_einundzwanzig_/einundzwanzig-shoutout-zfxqtu/).
+In case you enjoy using these Bitcoin plugins, we'd be happy to see a few sats at the [>>TIP JAR<<](https://legend.lnbits.com/tipjar/736) or via [quillie@getalby.com](). 
 
 <hr>
 
-Plebs together strong   -   last update at [777352](https://mempool.space/block/0000000000000000000675e48e157d0bb6b2d78017fc03434bdc46e7f2f48963).
+Plebs together strong   -   last update at [830878](https://mempool.space/block/830878).
